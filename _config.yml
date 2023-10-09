@@ -18,7 +18,6 @@ remote_theme: peterdesmet/petridish@3.0
 
 # BUILD SETTINGS
 exclude:
-  - README.md
   - Gemfile
   - Gemfile.lock
   - node_modules
