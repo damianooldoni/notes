@@ -2,10 +2,7 @@
 layout: home
 title: Conference notes
 description: Collection of personal notes from conferences and workshops
-background:
-  img: https://cdn.pixabay.com/photo/2016/05/08/23/20/keys-1380134_1280.jpg
-  by: [radekkulupa](https://pixabay.com/users/radekkulupa-1045852/)
-  href: https://pixabay.com/photos/keys-workshop-mechanic-tools-1380134/
+background: /assets/theme/images/keys-1380134_960_720.jpg
 permalink: /
 ---
 
