@@ -1,0 +1,25 @@
+---
+layout: home
+title: Conference notes
+description: Collect personal notes from conferences and workshops I followed
+
+background:
+  img: https://cdn.pixabay.com/photo/2016/05/08/23/20/keys-1380134_1280.jpg
+  by: [radekkulupa](https://pixabay.com/users/radekkulupa-1045852/)
+  href: https://pixabay.com/photos/keys-workshop-mechanic-tools-1380134/
+permalink: /
+---
+
+## Why?
+
+Have you ever written notes on the paper sheets received at the registration desk? Have you ever read them after the conference? Have you ever done something with them? Mine were lost, damaged or simply thrown away as a burden after being dragged for months (or years!) in my laptop bag. :unamused:
+
+This website is my last attempt to structure all the knowledge I collect during conferences and workshops. I hope to help the future-me to get the most out of it.
+
+{:.alert .alert-warning}
+These notes are not intended to be exausthive or fully comprehensive. They do NOT aim to reflect the view of the event organizers and speakers.
+
+
+Do you like how the website looks like? Well, give to Caesar what is Caesar's: this website is built using [Petridish](https://github.com/peterdesmet/petridish), a Jekyll theme developed by my colleague and websdesign guru, Peter Desmet. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
+
+
