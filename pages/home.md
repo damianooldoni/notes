@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Conference notes
-description: Collect personal notes from conferences and workshops I followed
+description: Collection of personal notes from conferences and workshops
 
 background:
   img: https://cdn.pixabay.com/photo/2016/05/08/23/20/keys-1380134_1280.jpg
