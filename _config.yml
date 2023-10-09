@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: Notes                        # Title in top navigation bar (navbar) and <head>
+title: Conference Notes             # Title in top navigation bar (navbar) and <head>
 author: Damiano Oldoni              # Used for copyright statement in footer
 baseurl: "/notes"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                     # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
@@ -17,10 +17,6 @@ social:
 remote_theme: peterdesmet/petridish@3.0
 
 # BUILD SETTINGS
-markdown: kramdown
-plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
-  - jekyll-feed
-  - jekyll-sitemap
 exclude:
   - README.md
   - Gemfile
@@ -30,10 +26,3 @@ exclude:
   - package-lock.json
   - package.json
   - petridish.gemspec
-
-# FRONTMATTER DEFAULTS
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default                   # Use default.html layout by default for all files
