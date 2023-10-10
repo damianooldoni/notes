@@ -1,6 +1,7 @@
 ---
 Title: EuroGEO Workshop 2023
 Description: Notes and useful links from the EuroGEO Workshop 2023
+permalink: /2023/EuroGEO2023/
 ---
 
 ## General info
