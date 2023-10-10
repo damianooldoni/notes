@@ -2,3 +2,9 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
+- text: 2023
+  menu: # Dropdown menu (one level deep only)
+  - text: EuroGEO 2023
+    href: /2023/EuroGEO2023.md/
+  - text: OEMC Global Workshop 2023
+    href: /2023/OEMC2023.md/
