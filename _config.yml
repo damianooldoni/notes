@@ -16,6 +16,7 @@ social:
 
 remote_theme: peterdesmet/petridish@3.0
 logo: /assets/themes/images/logo.png
+github_edit: true
 
 # BUILD SETTINGS
 exclude:
