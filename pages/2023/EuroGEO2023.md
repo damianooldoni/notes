@@ -1,6 +1,9 @@
 ---
 Title: EuroGEO Workshop 2023
 Description: Notes and useful links from the EuroGEO Workshop 2023
+background:
+	img: /assets/backgrounds/EuroGEO2023.jpg
+	by: EURAC
 toc: true
 permalink: /2023/EuroGEO2023/
 ---
@@ -14,7 +17,7 @@ permalink: /2023/EuroGEO2023/
 - Duration: 2-4 October 2023
 - Founder: European Commission
 
-## Notes
+## Talks
 
 ### Biodiversity, ecosystems and geodiversity Action Group
 
