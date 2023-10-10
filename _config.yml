@@ -15,6 +15,7 @@ social:
 # THEME SETTINGS (ALL OPTIONAL)
 
 remote_theme: peterdesmet/petridish@3.0
+logo: /assets/themes/images/logo.png
 
 # BUILD SETTINGS
 exclude:
