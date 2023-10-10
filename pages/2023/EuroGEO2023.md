@@ -1,10 +1,10 @@
 ---
 title: EuroGEO Workshop 2023
 background:
-	img: /assets/backgrounds/EuroGEO2023.jpg
-	by: EURAC
-toc: true
+  img: /assets/backgrounds/EuroGEO2023.jpg
+  by: EURAC
 permalink: /2023/EuroGEO2023/
+toc: true
 ---
 
 ## General info
