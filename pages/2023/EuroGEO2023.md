@@ -1,6 +1,5 @@
 ---
-Title: EuroGEO Workshop 2023
-Description: Notes and useful links from the EuroGEO Workshop 2023
+title: EuroGEO Workshop 2023
 background:
 	img: /assets/backgrounds/EuroGEO2023.jpg
 	by: EURAC
