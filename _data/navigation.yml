@@ -5,6 +5,6 @@
 - text: 2023
   menu: # Dropdown menu (one level deep only)
   - text: EuroGEO 2023
-    href: /pages/2023/EuroGEO2023.md/
+    href: /2023/EuroGEO2023/
   - text: OEMC Global Workshop 2023
-    href: /pages/2023/OEMC2023.md/
+    href: /2023/OEMC2023/
