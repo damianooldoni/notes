@@ -17,7 +17,7 @@ permalink: /2023/EuroGEO2023/
 - Duration: 2-4 October 2023
 - Founder: European Commission
 
-## Talks
+## Sessions
 
 ### Biodiversity, ecosystems and geodiversity Action Group
 
