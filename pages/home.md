@@ -8,7 +8,7 @@ permalink: /
 
 ## Why?
 
-Have you ever written notes on the paper sheets received at the registration desk? Have you ever read them after the conference? Have you ever done something with them? Mine were lost, damaged or simply thrown away as a burden after being dragged for months (or years!) in my laptop bag. :unamused:
+Have you ever written notes on the paper sheets received at the registration desk? Have you ever read them after the conference? Have you ever done something with them? Mine were lost, damaged or simply thrown away as a burden after being dragged for months (or years!) in my laptop bag. 😒
 
 This website is my last attempt to structure all the knowledge I collect during conferences and workshops. I hope to help the future-me to get the most out of it.
 
