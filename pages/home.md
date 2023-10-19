@@ -2,7 +2,7 @@
 layout: home
 title: Conference notes
 description: Collection of personal notes from conferences and workshops
-background: /assets/theme/images/keys-1380134_960_720.jpg
+background: /assets/backgrounds/home.jpg
 permalink: /
 ---
 
