@@ -10,7 +10,7 @@ toc: true
 ## General
 
 {:.alert .alert-warning}
-These notes are still a DRAFT. The symposium has been given in Dutch. Online material is also in Dutch.
+These notes are a **DRAFT**. The symposium has been given in Dutch. Online material is also in Dutch.
 
 - Original title: Praktijkdag Exotenbeheer voor lokale besturen van planning to actie
 - Website: https://exotennet.be/events/praktijkdag-exotennet-2023/
@@ -115,8 +115,20 @@ Improvements:
 Notice that PrIUS is based on already existing data and workflows. And it synthesizes key statistics for natural policy.
 
 Nicolas Pardon takes the floor to speak about some practice aspects such as management responsability aspects.
-ANB does:
-- coordination alien species policy
-- coordination alien species management
-- manages IAS on their areas themselves
+
+What is ANB responsible for?
+
+- Coordination alien species policy
+- Coordination alien species management
+- management of IAS on their areas
+
+ANB acts also based on several long-term framework agreements (_raamcontracten_ in Dutch) for the management of specific IAS species, e.g. African klauwkikker and alien gooses. 
+
+About Asian hornet, the role of ANB is quite comThey can also assess the detailed impact of a species, a communication goal by providing correct information, coordinating several actors such as Fire Department, local authorities, dL&V.
+
+About tiger mosquito:
+- it's invading North Europe coming from South Europa
+- Monitoring and surveillance coordinated by Sciensano
+
+Sensibilization is a key factor to manage this species.
 
