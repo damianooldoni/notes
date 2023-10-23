@@ -79,7 +79,9 @@ Sometimes it's better that external instances (e.g. Flemish authority) take care
 - Management niet technically achievable by the area manager
 - The management goals cannot be achieved by area manager
 
-### Which species are relevant in Flanders? A question of prioritization
+#### Which species are relevant in Flanders? A question of prioritization
+
+This part is the core of the PrIUS report. This part is prerecorded.
 
 Steps: 
 1. Check species based on policy relevant criteria, or _filters_
@@ -116,7 +118,8 @@ Improvements:
 Notice that PrIUS is based on already existing data and workflows, e.g. the assessment of emerging IAS based on GAM modelling for observed occupancy, which were indicators developed during the TrIAS project. And it synthesizes key statistics for natural policy.
 
 
-#### Management responsability aspects: the ANb
+#### Management responsability aspects: the role of ANB
+
 Nicolas Pardon takes the floor to speak about some practice aspects such as management responsability aspects.
 
 What is ANB responsible for?
