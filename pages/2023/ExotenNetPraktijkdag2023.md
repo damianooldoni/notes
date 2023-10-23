@@ -9,9 +9,6 @@ toc: true
 
 ## General
 
-{:.alert .alert-warning}
-These notes are a **DRAFT**. The symposium has been given in Dutch. Online material is also in Dutch.
-
 - Original title: Praktijkdag Exotenbeheer voor lokale besturen van planning to actie
 - [Website](https://exotennet.be/events/praktijkdag-exotennet-2023/)
 - Program: [web](https://exotennet.be/events/praktijkdag-exotennet-2023/#inhoud)
