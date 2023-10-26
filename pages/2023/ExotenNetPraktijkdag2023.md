@@ -165,6 +165,11 @@ People from province and municipalities were interested in mobilizing their data
 
 A mentimeter survey has been used for triggering and structuring the workshop.
 
+Some IAS management applications often heard from the audience:
+- gisib
+- DIPLA
+- fieldmaps
+
 A good suggestion from the audience: set up a collaboration with the [Vlaamse Vereniging voor Steden en Gemeenten](https://www.vvsg.be/) (VVSG) to coordinate the data mobilization.
 
 The suggestions related to the warning tool were useful and have been added as new GitHub issues or as comments to existing ones and they refer to:
