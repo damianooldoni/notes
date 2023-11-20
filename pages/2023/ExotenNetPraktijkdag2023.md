@@ -12,6 +12,7 @@ toc: true
 - Original title: Praktijkdag Exotenbeheer voor lokale besturen van planning to actie
 - [Website](https://exotennet.be/events/praktijkdag-exotennet-2023/)
 - Program: [web](https://exotennet.be/events/praktijkdag-exotennet-2023/#inhoud)
+- [Presentations](https://exotennet.be/praktijkdag-18-oktober-2023-presentaties)
 - Organizer: [ExotenNet]
 - Host: [Provinciehuis Provincie Oost-Vlaanderen](https://exotennet.be/locations/provinciehuis-provincie-oost-vlaanderen/), Ghent, Belgium
 - Date: 18/10/2023
