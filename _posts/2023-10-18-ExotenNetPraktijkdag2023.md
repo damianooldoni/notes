@@ -4,7 +4,7 @@ background:
   img: /assets/backgrounds/ExotenNet2023.jpg
   by: Damiano Oldoni
 author: Damiano Oldoni
-tags: ["ExotenNet", "2023", Belgium, Flanders, Gent, "Provincie Oost-Vlaanderen"]
+tags: [ExotenNet, 2023, Belgium, Flanders, Gent, Provincie Oost-Vlaanderen]
 toc: true
 comments: false
 published: true
