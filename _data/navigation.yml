@@ -2,14 +2,8 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: 2023
-  menu: # Dropdown menu (one level deep only)
-  - text: EuroGEO 2023
-    href: /2023/EuroGEO2023/
-  - text: OEMC Global Workshop 2023
-    href: /2023/OEMC2023/
-  - text: ExotenNet 2023
-    href: /2023/ExotenNetPraktijkdag2023/
+- text: Blog
+  href: /blog/
 - text: GitHub
   href: https://github.com/damianooldoni/notes/
   new_window: true
