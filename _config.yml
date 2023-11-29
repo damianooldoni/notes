@@ -15,6 +15,7 @@ social:
 # THEME SETTINGS (ALL OPTIONAL)
 
 posts_on_home: 4                        # Show x number of latest posts on homepage, can be 0
+archive_permalink: /blog/
 remote_theme: peterdesmet/petridish@3.0
 logo: /assets/themes/images/logo.png
 github_edit: true
