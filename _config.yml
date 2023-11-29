@@ -36,7 +36,3 @@ defaults:
       path: ""
     values:
       layout: default                   # Use default.html layout by default for all files
-  - scope:
-      type: posts
-    values:
-      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
