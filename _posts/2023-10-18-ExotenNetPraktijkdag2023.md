@@ -3,8 +3,11 @@ title: ExotenNet Praktijkdag 2023
 background:
   img: /assets/backgrounds/ExotenNet2023.jpg
   by: Damiano Oldoni
-permalink: /2023/ExotenNetPraktijkdag2023/
+author: Damiano Oldoni
+tags: ["ExotenNet", "2023", Belgium, Flanders, Gent, "Provincie Oost-Vlaanderen"]
 toc: true
+comments: false
+published: true
 ---
 
 ## General

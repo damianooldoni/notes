@@ -14,6 +14,7 @@ social:
 
 # THEME SETTINGS (ALL OPTIONAL)
 
+posts_on_home: 4                        # Show x number of latest posts on homepage, can be 0
 remote_theme: peterdesmet/petridish@3.0
 logo: /assets/themes/images/logo.png
 github_edit: true
@@ -28,3 +29,14 @@ exclude:
   - package-lock.json
   - package.json
   - petridish.gemspec
+
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default                   # Use default.html layout by default for all files
+  - scope:
+      type: posts
+    values:
+      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
