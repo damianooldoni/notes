@@ -13,7 +13,7 @@ published: true
 ## General
 
 - [Website]()
-- Organizer: Dirk Maes and Petra Vincke (INBO)
+- Organizer: Dirk Maes and Petra Vijncke (INBO)
 - Host: INBO
 - Date: 04/12/2023
 - [Slides](https://docs.google.com/presentation/d/1vk_sOgpG_STptnIHcxv2oA8Dav_yIoE7/edit?usp=drive_link&ouid=109004011205942623101&rtpof=true&sd=true) (access restricted)
