@@ -2,9 +2,9 @@
 title: Presentations and posters
 background:
   img: /assets/backgrounds/posters_presentations_INBO2023.jpg
-  by: [Jason Rosewell](https://unsplash.com/@jasonrosewell)
+  by: Jason Rosewell
 author: Damiano Oldoni
-tags: [INBO, scientific communication, 2023, internal]
+tags: [INBO, scientific communication, 2023]
 toc: true
 comments: false
 published: true
