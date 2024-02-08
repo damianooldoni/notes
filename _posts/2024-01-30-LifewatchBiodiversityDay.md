@@ -1,7 +1,7 @@
 ---
 title: LifeWatch Biodiversity Day 2024
 background:
-  img: /assets/lifewatch_biodiversity_day_2024_KVAB.jpg
+  img: /assets/backgrounds/lifewatch_biodiversity_day_2024_KVAB.jpg
   by: Damiano Oldoni
 author: Damiano Oldoni
 tags: [LifeWatch, 2024, Belgium, Brussels]

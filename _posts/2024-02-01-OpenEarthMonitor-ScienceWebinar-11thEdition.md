@@ -1,7 +1,7 @@
 ---
 title: Open-Earth Monitor Science Webinars - 11th edition
 background:
-  img: /assets/Open_Earth_Monitor_Science_Webinars_11th_Edition.jpg
+  img: /assets/backgrounds/Open_Earth_Monitor_Science_Webinars_11th_Edition.jpg
   by: wallpaperflare
 author: Damiano Oldoni
 tags: [Open Earth Monitor, OEMC, 2024, webinar]
