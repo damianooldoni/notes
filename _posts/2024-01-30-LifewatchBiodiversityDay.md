@@ -1,8 +1,8 @@
 ---
 title: LifeWatch Biodiversity Day 2024
 background:
-  img: 
-  by: 
+  img: /assets/lifewatch_biodiversity_day_2024_KVAB.jpg
+  by: Damiano Oldoni
 author: Damiano Oldoni
 tags: [INSPIRE, European Commission, 2023, Belgium, Brussels]
 toc: true
