@@ -4,7 +4,7 @@ background:
   img: /assets/lifewatch_biodiversity_day_2024_KVAB.jpg
   by: Damiano Oldoni
 author: Damiano Oldoni
-tags: [INSPIRE, European Commission, 2023, Belgium, Brussels]
+tags: [LifeWatch, 2024, Belgium, Brussels]
 toc: true
 comments: false
 published: true
