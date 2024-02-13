@@ -13,7 +13,7 @@ published: true
 ## General
 
 - [Website](https://lifewatch.be/en/lifewatch-biodiversity-day-taxonomy-science-behind-species-discovery) & Program
-- Organiser: [Joint Research Centre](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/joint-research-centre_en) on behalf of the European Commission
+- Organiser: [LifeWatch Belgium](https://lifewatch.be/)
 - Host: KVAB (Royal Flemish Academy of Belgium for Science and the Arts), Palace of the Academies, Rue Ducale 1, 1000 Brussels
 - Date: 30/01/2024
 
@@ -52,7 +52,7 @@ Carl Linnaeus gave us the fundamentals for modern day taxonomy by a systematic n
 
 Our taxonomic knowledge is way far to be complete.
 
-The seed of Catalogue of Life: species 2000. "Let us bring together the knowledge of the global taxonomic community in a single shared authoritative sstem that can be used by all. (IUBS meeting 1996), Frank Bisby
+The seed of Catalogue of Life: species 2000. "Let us bring together the knowledge of the global taxonomic community in a single shared authoritative system that can be used by all. (IUBS meeting 1996), Frank Bisby
 
 OECD MegaSCience Forum: seed of GBIF was planted.
 
@@ -95,7 +95,7 @@ Budget:
 - NASA budget of 2022 ~~27160 million US Dollars (2012: 18700 mln)
 - ESA ~7800 million Euro (in 2012: 3676 mln)
 - SpaceX in 2022 estimated at least ~2000 million US DOllars
-- CERN in 2023 ~1500 milliion EUro (2012: 1076 mln)
+- CERN in 2023 ~1500 million EUro (2012: 1076 mln)
 - GBIF in 2023 ~~3.6 million Euro (2013: 3.5 mln)
 - CoL Sec in 2023 ~0.35 million Euro (2014: 0.29 mln)
 
@@ -122,7 +122,7 @@ Unknown species? Up to 2 million.
 | 2002 - present (new taxonomy era) | 2117 |
 
 
-Most of species discovered come from kingdom Animals.
+Most of the discovered species come from the kingdom _Animalia_.
 
 - Ratio Male - Female - Unknown: 55% - 24% - 21%
 - Age: 23 - 85, of which 50% younger than 48
@@ -135,9 +135,9 @@ Challenges for WoRMS: The challenge of authorships. Examples:
 - Dalton: many brothers.
 - typos, small variants, etc.
 
-Unkowns:
+Unknowns:
 
-- How many mainre species actually exists?
+- How many marine species actually exist?
 - how many taxonomis are out there. WHoe are they exactly?
 - Where are species actually discovered? (problems uniquely describing localities)
 
@@ -153,7 +153,7 @@ infraFADA is revamping an older initiative: [FADA](http://fada.biodiversity.be/)
 
 The paradox of fresh water (FW). An outstanding diversity in such a restricted habitat:
 
-The need for DATA:¨**quantitative estimates** of FW biological diversity for conservation purposes. You cannot adequately what you don't know.
+The need for DATA:¨**quantitative estimates** of FW biological diversity for conservation purposes. You cannot adequately know what you don't know.
 
 FW is a macro category as we have several different FW ecosystems.
 
@@ -183,6 +183,7 @@ After-project sustainability:
 - Expert Consortium: RBINS
 - DATAtims: BOKU
 
-Need for an intergrated business plan.
+Need for an integrated business plan.
+
 
 
