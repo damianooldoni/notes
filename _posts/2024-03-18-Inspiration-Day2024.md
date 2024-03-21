@@ -2,7 +2,7 @@
 title: INBO Inspiration day 2024
 background:
   img: /assets/backgrounds/InspirationDay2024.jpg
-  by: [pxhere](https://pxhere.com/en/photo/759181)
+  by: pxhere
 author: Damiano Oldoni
 tags: [INBO, 2024, AI]
 toc: true
