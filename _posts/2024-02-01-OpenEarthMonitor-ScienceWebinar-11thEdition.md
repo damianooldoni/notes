@@ -16,7 +16,7 @@ published: true
 - Organiser: Open-Earth Monitor Project
 - Host: online via Zoom
 - Founder: European Commision via Horizon-Europe, [grant agreement No. 101059548](https://cordis.europa.eu/project/id/101059548)
-- Date 01/02/2024
+- Date: 01/02/2024
 
 Both talks are focussing on research ongoing at the International Institute for Applied Systems Analysis ([IIASA](https://iiasa.ac.at/)).
 
