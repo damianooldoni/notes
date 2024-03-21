@@ -20,7 +20,7 @@ published: true
 
 Presenter: Lode Lauwaert (KU Leuven)
 
-Author of Wij, robots (Lannoo  Campus)
+Author of [Wij, robots](https://www.lannoocampus.nl/nl/wij-robots) (Lannoo  Campus)
 
 ### Introduction
 
