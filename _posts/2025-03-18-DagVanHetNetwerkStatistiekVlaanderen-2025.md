@@ -1,8 +1,8 @@
 ---
 title: Dag van het netwerk - Statistiek Vlaanderen
 background:
-  img: /assets/backgrounds/
-  by: 
+  img: /assets/backgrounds/statistiek2025.jpg
+  by: [Deng Xiang](https://unsplash.com/@dengxiangs)
 author: Damiano Oldoni
 tags: [data, data sharing, open data, 2025, Belgium, Brussels, Flemish Authority, statistics]
 toc: true
