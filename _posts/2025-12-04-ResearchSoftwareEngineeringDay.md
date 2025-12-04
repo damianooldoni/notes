@@ -154,7 +154,165 @@ https://www.eessi.io/docs/
 Presenter: Jo Van Bulck.
 
 
+[Kerckhoff's Principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle): No Security through Obscurity.
+
+[Linus's Law](https://en.wikipedia.org/wiki/Linus%27s_law): Security through Open Source? *"Given enough eyeballs, all bugs are shallow"* (Eric S. Raymond). 
+
+"Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone. [..] Researchers and practitioners have repeatedly shown the effectiveness of reviewing processes in finding bugs and security issues." (Pfleeger, Charles P.; Pfleeger, Shari Lawrence (2003). [Security in Computing, 4th Ed.](https://openlibrary.org/books/OL7339893M/Security_in_Computing_%284th_Edition%29) Prentice Hall PTR. pp. 154–157. ISBN 0-13-239077-9.)
+
+Linux: hundreds of vulnerabilities
+
+Let's speak about [**Confidential Computing**](https://en.wikipedia.org/wiki/Confidential_computing).
+
+Truested execution: hardware-level isolation and attestation.
+There is a growing ecosystem of Trusted Execution Environments (TTEs). TTEs are here to stay: "Confidential Computing Today, Just Computing Tomorrow" (Mark Russinovich, CTO Microsoft Azure)
+
+Research Agenda: test security claims of these TTEs
+
+- Offensive security analysis of closed-source (large) commercial systems: critical analysis of vendor claims.
+- Defensive prototypes on open-source (small) research systems: next-generation innovations
+
+DistriNet is vetting confidential computing for more a decade.
+
+Let's speak now about [Sancus](https://downloads.distrinet-research.be/software/sancus/), a long-lived open source project, do's and don'ts.
+
+Sancus is a lightweight Trusted computing for the Internet Of Things (IOT).
+
+No commercialization, but FOSS licenses
+Limit dependencies
+Upstream eagerly : avoid dead forks. 2012-2017: public tarballs + private git. From 2017: move to public GitHub organisation: [Sancus](https://github.com/sancus-tee).
+
+Check the inspiring book The Cathedral & The Bazaar, by Eric S. Raymond (see [online version](http://www.catb.org/~esr/writings/cathedral-bazaar/), [paper book](https://www.oreilly.com/library/view/the-cathedral/0596001088/)).
+
+
+**Build usable systems**
+
+- large engineering effort resulting in minimal publication effort.
+- Simulators and test frameworks
+- Continuous integration
+
+**Impact through Education**
+
+Having master students on Sancus allows understanding, by putting theory into practice. Highly recommended: continuous master thesis involvement.
+
+**Science Communication**
+
+Documentation, conferences: FOSSDEM is the most important probably.
+
+Let's speak now about [SGX-Step](https://github.com/jovanbulck/sgx-step), a versatile open-source attack framework.
+
+SGX-Step enlights an important aspect: **Engage with Industry**!
+SGX-Step lef to changes in major OSs, Intel chipts and enclaves SDKs.
+
+Conclusions. What are the **magic ingredients**?
+
+1. **Open-source** ecosystem
+2. **Modular** base design
+3. Impact through **education**
+4. Science **communication**
+5. Accessible **library design**
+6. Reusable **primitives**
+7. Engage with **industry**
+
 
 ### The Marvelous Misadventures of a Scientist-in-progress: from PhD Disasters to Corporate Farces
 
-Presenter: Giada Lalli
+Presenter: Giada Lalli, Bioinformatician
+
+Coding was her next-step. It was like taking control on something she hadn't control before. Coding perceived like a game.
+
+[What makes PhD students happy? Good supervision](https://www.nature.com/articles/d41586-025-03416-7).
+
+Seek **mentorship**, not control
+Seek **guidance**, not permission
+Seek **direction**, not directives
+Seek **feedback**, not instructions
+Seek **support**, not dependence
+
+Never forget: you are in charge of your PhD as it's your project. Do not forget that your promotor was in your position just few years before you.
+
+Trust your skills.
+
+And don't be shy, but **reach out** even just for advice.
+
+## Parallel Track 2 - Data & AI/ML
+
+Chair: Ingrid Barcena Roig
+
+### AI pair programming: how lazy can you afford to be?
+
+Presenter: [Geert Jan Bex](mailto:geertjan.bex@uhasselt.be)
+
+Attempt to making slides with voice over.
+
+AI generated code:
+How to debug?
+How to maintain?
+
+
+Formulate specs
+
+
+Write documentation about User Interface and let AI to create code based on it.
+Better precision of my speces, more correct the output.
+
+AI is good in "boring work":
+- command line arguments
+- input validation
+- documentation stubs
+- initial unit tests
+
+Code completion and suggestions: yes, but pay attention that they could be "outdated", even if working. AI systems 
+
+
+Code reviews: [sourcery](https://www.sourcery.ai/). Nice.
+
+Use agents: they will improve incredibly the quality.
+
+Online agents:
+- GitHub Copilot
+- [OpenAi Codex](https://openai.com/nl-NL/codex/)
+
+On your machine:
+- OpenAI Codex CLI
+
+
+OpenAI Codex CLI for something where discussion/iterations are expected as the goal is more complex, not just unit-tests.
+
+Provide context via Markdowns, e.g. `AGENTS.md`.
+
+General guidelines
+Specialization:
+- in GIthub repository
+- in specific directories
+
+
+Boring science is easy, science not.
+
+- Use scpeifications
+- Can save lots of time
+- Check answers/review code
+
+You won't be out of a job anytime soon... if you add value and **you know your stuff**.
+
+**AI doesn't replace** competence: it **complements** it.
+
+
+### Valorise your research by developing software: challenges and opportunities in the domains of digital education and healthcare 
+
+Presenter: Frederik Cornillie, Stefaan Haspeslagh
+
+[Slides](https://kulak.kuleuven.be~u0037921/pub/RSE_Day_2025.pdf).
+
+
+Think beyond your current collaboration. Have a mission, a long-term goal.
+
+### dtaianomaly: A Python library for time series anomaly detection
+
+Presenter: Louis Carpentier
+
+[dtaianomaly](https://dtaianomaly.readthedocs.io) is a Python tool for time series anomaly detection.
+
+There is a web application on top of it: [InTimeAD](https://intimead.cs.kuleuven.be/) ([GItHub](https://github.com/ML-KULeuven/InTimeAD)).
+
+During poster session, the presenter showed me another Python tool, [patsemb](https://patsemb.readthedocs.io/en/stable/) which could be interesting for migration/spawning detection in eels/shads time series I work on. PaTSEmb is a Python package for creating a pattern-based embedding of the time series. This is an embedding of the time series which contains information about the typical shapes are occurring at which locations in the time series.
