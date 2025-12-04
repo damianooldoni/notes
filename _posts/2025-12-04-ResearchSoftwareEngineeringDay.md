@@ -28,9 +28,8 @@ These notes are a very first **DRAFT**. A review will occurr soon.
 ### From FAIR to Good Practice: How Do We Improve Research Software?
 
 Presenter: Neil Chue Hong (Director, Sofware Sustainability Institute), Professort of Research Software Policy and Practice
-Slides: https://doi.org/10.6084/m9.figshare.30764660 (CC BY 4.0)
 
-Chue Hong, Neil (2025). From FAIR to Good Practice: How do we improve research software?. figshare. Presentation. https://doi.org/10.6084/m9.figshare.30764660.v1
+Chue Hong, Neil (2025). From FAIR to Good Practice: How do we improve research software?. figshare. Presentation. [https://doi.org/10.6084/m9.figshare.30764660](https://doi.org/10.6084/m9.figshare.30764660)
 
 A lot has changed since 2010.
 
@@ -39,7 +38,7 @@ Research Software Engineer is a kind of "family" as there are different tasks-re
 Software Sustainability Institute has been founded in 2010 to improve practice aroud the software that enables research. Dedicated to any kind of sustainability.
 
 Some milestones of the institute: 
-- Carpentries
+- [Carpentries](https://carpentries.org/)
 - FAIR principles for software ([FAIR4RS](https://www.nature.com/articles/s41597-022-01710-x))
 
 FAIR principles for software are comprehensive but quite difficult to fully achieve. So, a new paper was written speaking about **FAIR enough** principles. What are the FAIR enough principles?
@@ -93,29 +92,28 @@ Coding assistants good at creating unit tests for edge cases
 what happens if the tools you rely on increase their price/disappear?
 Sustainability aspects are very important while thinking about code assistants.
 
-
 ### The Impact of Open Source Robotics Research - or the Lack thereof on Industry
 
 Presenter: [Peter Soetens](https://www.imecitf.com/flanders/speakers/peter-soetens), CEO at [Intermodalics](https://www.intermodalics.ai/)
 
-Intermodalics:
-- software for Vision Gudied Robots. 
-- Real time system, [Robot Operating System](https://ros.org/) (ROS)
+What Intermodalics does?
+- Produce software for Vision Guided Robots. 
+- Real-time system, [Robot Operating System](https://ros.org/) (ROS)
 
-All modern digital infrstructure is in some way based on open software, e.g. linux, created by "poor" Linus Torvalds:
+All modern digital infrstructure is in some way based on open software, e.g. linux, created by "poor" Linus Torvalds (poor in comparison with all tech CEOs):
 https://www.lets-code.co.in/blogs/getting-started-with-open-source/
 
-But, the Linux Foundation is not poor at all as big companies understand the importance of it.
+But, the Linux Foundation is not poor at all as big tech and many other companies worldwide understand the importance of it.
 
 Was ROS the best when launched? No, just "good enough". And that's was its success; together with being open source.
 
 Check the [Open Source Robotics Alliance](https://osralliance.org/).
 
-Whar we all need from research:
+What we all need from research:
 
 1. Open up the foundational levels (R package, Python library or a model, ...)
-2. If you cannot open it up because your research has been paied by cmpanies and you have confidentiality issues, collaborate globally: the overhead is worth the win!
-3. If what you are doing is so secret even the previous step is not possible, start your own company: do you have any breaktrough idea? Keep it and build it!
+2. If you cannot open it up because your research has been paied by companies and you have confidentiality issues, collaborate globally: the overhead is worth the win!
+3. If what you are doing is so secret that even the previous step is not possible, just start your own company: do you have any breaktrough idea? Keep it and build it! *And get back to 1, or at least 2* (italic: my personal addition).
 
 
 ## Parallel Track 1 - Workflow
